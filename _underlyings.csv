@@ -1,0 +1,31 @@
+Code,Name,Type,ICBSubSectorLongName,ICBSectorLongName,ICBSuperSectorLongName,ICBIndustryLongName,Weight
+MTM,Momentum Met Hldgs Ltd,Equity,Life Insurance,Life Insurance,Insurance,Financials,0.022615822
+AGL,Anglo American plc,Equity,General Mining,Industrial Metals & Mining,Basic Resources,Basic Materials,0.032049924
+RBP,Royal Bafokeng Platinum Ltd,Equity,Platinum & Precious Metals,Precious Metals & Mining,Basic Resources,Basic Materials,0.015684899
+SBK,Standard Bank Group Ltd,Equity,Banks,Banks,Banks,Financials,0.057806842
+AFE,AECI Limited,Equity,Chemicals: Diversified,Chemicals,Chemicals,Basic Materials,0.037803825
+ARL,Astral Foods Ltd,Equity,"Farming Fishing, Ranching & Plantations",Food Producers,"Food, Beverage & Tobacco",Consumer Staples,0.076639
+RMH,RMB Holdings Ltd,Equity,Real Estate Holding & Development,Real Estate Investment & Services,Real Estate,Real Estate,0.02265711
+APN,Aspen Pharmacare Hldgs Ltd,Equity,Pharmaceuticals,Pharmaceuticals & Biotechnology,Health Care,Health Care,0.046161088
+VOD,Vodacom Group Ltd,Equity,Telecommunications Services,Telecommunication Services Providers,Telecommunications,Telecommunications,0.034354967
+INP,Investec plc,Equity,Banks,Banks,Banks,Financials,0.030272218
+RLO,Reunert Ltd,Equity,Electrical Components,Electronic & Electrical Equipment,Industrial Goods & Services,Industrials,0.022096988
+DSY,Discovery Ltd,Equity,Life Insurance,Life Insurance,Insurance,Financials,0.025655468
+NED,Nedbank Group Ltd,Equity,Banks,Banks,Banks,Financials,0.037757671
+ARI,African Rainbow Min Ltd,Equity,General Mining,Industrial Metals & Mining,Basic Resources,Basic Materials,0.030086506
+TFG,The Foschini Group Limited,Equity,Apparel Retailers,Retailers,Retail,Consumer Discretionary,0.022459333
+RMI,Rand Merchant Inv Hldgs Ltd,Equity,Diversified Financial Services,Investment Banking & Brokerage Services,Financial Services,Financials,0.028638014
+MTN,MTN Group Ltd,Equity,Telecommunications Services,Telecommunication Services Providers,Telecommunications,Telecommunications,0.021196463
+QLT,Quilter Plc,Equity,Asset Managers & Custodians,Investment Banking & Brokerage Services,Financial Services,Financials,0.024933903
+NTC,Netcare Limited,Equity,Health Care Facilities,Health Care Providers,Health Care,Health Care,0.034807141
+MTH,Motus Holdings Ltd,Equity,Specialty Retailers,Retailers,Retail,Consumer Discretionary,0.022759685
+FSR,Firstrand Ltd,Equity,Banks,Banks,Banks,Financials,0.023458086
+CFR,Compagnie Fin Richemont,Equity,Luxury Items,Personal Goods,Consumer Products & Services,Consumer Discretionary,0.027277858
+PAN,Pan African Resource plc,Equity,Gold Mining,Precious Metals & Mining,Basic Resources,Basic Materials,0.040042203
+BTI,British American Tob plc,Equity,Tobacco,Tobacco,"Food, Beverage & Tobacco",Consumer Staples,0.040836277
+REM,Remgro Ltd,Equity,Diversified Financial Services,Investment Banking & Brokerage Services,Financial Services,Financials,0.031064846
+PSG,PSG Group Ltd,Equity,Diversified Financial Services,Investment Banking & Brokerage Services,Financial Services,Financials,0.024931871
+SLM,Sanlam Limited,Equity,Life Insurance,Life Insurance,Insurance,Financials,0.055900244
+ABG,Absa Group Limited,Equity,Banks,Banks,Banks,Financials,0.023973226
+TKG,Telkom SA SOC Ltd,Equity,Telecommunications Services,Telecommunication Services Providers,Telecommunications,Telecommunications,0.054380581
+EXX,Exxaro Resources Ltd,Equity,Coal,"Oil, Gas & Coal",Energy,Energy,0.02420545
